@@ -1,0 +1,2 @@
+# ssIM
+A smaller shellsay
